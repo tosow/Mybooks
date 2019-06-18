@@ -12,7 +12,7 @@ Page de détails sur un livre affichant titre, auteur (prénom + nom), numéro I
 L'application devra suivre les exigences techniques suivantes :
 
 - Utilisation sans aucune modification des scripts SQL fournis pour la base de données.
-- Respect de l’architecture : création de classes du domaine, des DAO associés, utilisation d’un contrôleur frontal…
+- Respect de l’architecture  MVC: création de classes du domaine, des DAO associés, utilisation d’un contrôleur frontal…
 Utilisation de Silex, Composer, Twig et Bootstrap. 
 - Qualité du code
 Afin de produire un code de la meilleure qualité possible, vous devez respecter les exigences suivantes :
