@@ -1,6 +1,6 @@
 # Mybooks
 
-L’objectif est de concevoir une application web fonctionnelle, robuste et sûre avec PHP silex.qui affiche des informations sur des livres à partir d’une base de données. 
+C'est une application web fonctionnelle, robuste et sûre avec PHP silex.qui affiche des informations sur des livres à partir d’une base de données. Vous pouvez utiliser mybooks comme  squelette de base pour concevoir votre app.
 
 # Fonctionnalités 
 
